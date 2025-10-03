@@ -1,36 +1,34 @@
-# 👋 Hi, I'm Priyanka Rajput  
+# 👋 Hey there, I'm Priyanka!
 
-💻 A **Web Developer** passionate about building scalable solutions with **WordPress/WooCommerce** and crafting clean, efficient code.  
-🚀 Always learning, exploring, and improving my craft by diving into new technologies and problem-solving approaches.  
-
----
-
-## 🔧 Tech Stack  
-- **Languages:** PHP, JavaScript, SQL, HTML, CSS  
-- **Frameworks/CMS:** WordPress, WooCommerce  
-- **Databases:** MySQL  
-- **Other Tools & Skills:** Git, REST APIs, cPanel, Custom Plugin/Theme Development  
+💻 **Web Dev** | WordPress/WooCommerce enthusiast | Code cleaner than my room (most days)  
 
 ---
 
-## 🌱 Currently Learning  
-- Advanced SQL for analytics & reporting  
-- Modern JavaScript libraries/frameworks  
-- Scalable custom plugin & theme development in WordPress  
+## 🔧 What I Do
+- Build cool stuff with **PHP, JavaScript, SQL, HTML & CSS**  
+- Tinker around in **WordPress & WooCommerce**  
+- Make databases and plugins behave (mostly)  
 
 ---
 
-## 📈 GitHub Stats  
+## 🌱 Learning
+- Advanced SQL ninja moves  
+- Modern JavaScript magic  
+- Crafting WordPress plugins & themes that actually scale  
+
+---
+
+## 📈 GitHub Stats
 ![Priyanka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PriyankaRajput07&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyankaRajput07&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyankaRajput07&layout=compact&theme=radical)  
 
 ---
 
-## 📫 Connect with Me  
+## 📫 Let's Connect
 - 💼 LinkedIn: [linkedin.com/in/priyanka-rajput](#)  
-- 🌐 Portfolio/Website: [priyankarajput.dev](#)  
-- 📧 Email: [priyanka@example.com](mailto:priyanka@example.com)  
+- 🌐 Portfolio: [priyankarajput.dev](#)  
+- 📧 Email: [priyanka.rajput.dev@gmail.com](mailto:priyanka.rajput.dev@gmail.com)  
 
 ---
 
-✨ _Thanks for visiting my profile! Feel free to check out my repositories and connect with me._  
+✨ _Thanks for stopping by! Check out my repos and say hi – I don’t bite (unless it’s coffee)._  
