@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Priyanka!
 
 💻 **Web Developer** | WordPress/WooCommerce enthusiast | Lover of clean code (and coffee)  
-I build websites, plugins, and solutions that make life easier for businesses and users alike. I enjoy turning complex problems into simple, scalable solutions.
+I have **6+ years of experience** building solutions across **both product and service domains**. I enjoy turning complex problems into simple, scalable solutions that delight users and businesses alike.
 
 ---
 
@@ -11,6 +11,7 @@ I build websites, plugins, and solutions that make life easier for businesses an
 - Work with **WooCommerce** to create smooth e-commerce experiences  
 - Optimize **databases and backend workflows** to make everything run efficiently  
 - Tinker with APIs, Git, and other tools to keep projects smooth and organized  
+- Mentor and collaborate with teams to deliver high-quality products and services  
 
 ---
 
