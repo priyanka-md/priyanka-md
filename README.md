@@ -23,13 +23,13 @@ I have **6+ years of experience** building solutions across **both product and s
 ---
 
 ## 📈 GitHub Stats
-![Priyanka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PriyankaRajput07&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyankaRajput07&layout=compact&theme=radical)  
+![Priyanka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanka-md&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanka-md&layout=compact&theme=radical)  
 
 ---
 
 ## 📫 Let's Connect
-- 💼 LinkedIn: [linkedin.com/in/priyanka-rajput](#)  
+- 💼 LinkedIn: [linkedin.com/in/priyankarajput20](#)  
 - 🌐 Portfolio: [priyankarajput.dev](#)  
 - 📧 Email: [priyanka.rajput.dev@gmail.com](mailto:priyanka.rajput.dev@gmail.com)  
 
