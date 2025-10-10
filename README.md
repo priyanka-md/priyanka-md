@@ -28,11 +28,4 @@ I have **6+ years of experience** building solutions across **both product and s
 
 ---
 
-## 📫 Let's Connect
-- 💼 LinkedIn: [linkedin.com/in/priyankarajput20](#)  
-- 🌐 Portfolio: [priyankarajput.dev](#)  
-- 📧 Email: [priyanka.rajput.dev@gmail.com](mailto:priyanka.rajput.dev@gmail.com)  
-
----
-
 ✨ _Thanks for stopping by! Feel free to explore my repos, reach out, or just say hi. I promise I only bite code (not people)._  
